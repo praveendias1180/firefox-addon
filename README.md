@@ -11,3 +11,7 @@ The technology for extensions in Firefox is, to a large extent, compatible with 
 # Load an addon
 
 ![](this-firefox.png)
+
+# Red Border Addon
+
+![](red-border.png)
